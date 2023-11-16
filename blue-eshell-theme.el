@@ -33,7 +33,7 @@
 (custom-theme-set-faces
  'blue-eshell
 
- '(default ((t (:background "Blue-Eshell" :foreground "DarkSlateGray4"))))
+ '(default ((t (:background "blue" :foreground "DarkSlateGray4"))))
  '(mouse ((t (:foreground "black"))))
  '(cursor ((t (:background "black"))))
  '(border ((t (:foreground "black"))))
